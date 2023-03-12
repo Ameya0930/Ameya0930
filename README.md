@@ -17,12 +17,18 @@ Hey there! My name is Ameya Kulkarni and I am a new developer with experience in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ameya79639487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ameya79639487" height="30" width="40" /></a>
+<a href="https://twitter.com/ameya79639487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ameya79639487" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ameya kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameya kulkarni" height="30" width="40" /></a>
 <a href="https://instagram.com/ameyakulkarni_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ameyakulkarni_16" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ameya29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ameya29" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@kameya061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kameya061" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kameya061" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="40" height="30" alt="hackerrank logo"  />
+  
 </p>
+
+
+  
+
+###
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ameya0930&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
