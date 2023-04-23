@@ -37,6 +37,5 @@ Hey there! My name is Ameya Kulkarni and I am a new developer with experience in
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameya0930&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ameya0930&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
