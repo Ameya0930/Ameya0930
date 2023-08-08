@@ -1,7 +1,7 @@
 
 <br>
 <br>
-# 💫 About Me:
+# 💫 About Me:</br>
 Hey there! My name is Ameya Kulkarni and I am a new developer with experience in HTML, CSS, JavaScript.
 
 
